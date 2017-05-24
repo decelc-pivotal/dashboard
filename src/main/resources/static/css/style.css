@@ -1,0 +1,7 @@
+#site-name a {
+    background: transparent url(../images/logo-cvs-health-hd.png) no-repeat 0 0;
+    background-size: 191px auto;
+    width: 191px;
+    height: 24px;
+    display: block;
+}
